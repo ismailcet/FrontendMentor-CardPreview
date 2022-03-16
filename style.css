@@ -157,6 +157,7 @@ p {
   .container {
     padding: 4.5rem 7.5rem 0 4rem;
     text-align: left;
+    border-radius: 1rem 0 0 1rem;
   }
   .numbers {
     display: grid;
@@ -181,6 +182,7 @@ p {
   .container {
     padding: 4.5rem 7.5rem 0 4rem;
     text-align: left;
+    border-radius: 1rem 0 0 1rem;
   }
   .numbers {
     display: grid;
